@@ -1,4 +1,5 @@
 📸 Photo Editor
+
 A responsive web-based photo editing application that enables users to enhance and customize images directly in the browser.
 
 Features
